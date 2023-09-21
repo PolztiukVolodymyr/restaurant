@@ -14,7 +14,7 @@ const Offer = () => {
                     process-centric methods of empowerment. Quickly pontificate
                     parallel.
                 </p>
-                <CountDown />
+                {/* <CountDown /> */}
                 <button className='bg-red-400 text-white rounded-md py-3 px-6'>
                     Order Now
                 </button>
